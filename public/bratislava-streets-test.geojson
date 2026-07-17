@@ -1,0 +1,1558 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-12T11:25:56Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4257767",
+        "cycleway": "shared_lane",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "source:maxspeed": "sign",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1137636,
+            48.1456742
+          ],
+          [
+            17.1138447,
+            48.1457799
+          ],
+          [
+            17.1139272,
+            48.1458837
+          ],
+          [
+            17.1139681,
+            48.1459334
+          ],
+          [
+            17.114013,
+            48.145975
+          ],
+          [
+            17.114414,
+            48.1463508
+          ],
+          [
+            17.1145526,
+            48.1464775
+          ],
+          [
+            17.1147278,
+            48.1466333
+          ],
+          [
+            17.1148039,
+            48.146701
+          ]
+        ]
+      },
+      "id": "way/4257767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4276195",
+        "bicycle": "yes",
+        "cycleway": "shared_lane",
+        "highway": "pedestrian",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxweight": "5",
+        "name": "Obchodná",
+        "name:1908-1945": "Schöndorfská",
+        "name:de": "Schöndorfergasse",
+        "name:hu": "Széplak utca",
+        "network": "lcn",
+        "old_name": "platea Hungaricalis;platea Schöndorf;Schöndorffergasse;Schöndorff;Schöndorffergassen;Маgyar utca;Magyar ucza;Széplak utca;Uhorská;Schöndorfská;Molotovova;Šendorf",
+        "oneway": "yes",
+        "source:maxspeed": "SK:urban",
+        "surface": "asphalt",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1133661,
+            48.1490204
+          ],
+          [
+            17.1134123,
+            48.1490636
+          ]
+        ]
+      },
+      "id": "way/4276195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4418676",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "SK:zone30",
+        "name": "Dunajská",
+        "name:de": "Donaugasse",
+        "name:hu": "Duna utca",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "left|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.121507,
+            48.1465567
+          ],
+          [
+            17.1217705,
+            48.1466361
+          ],
+          [
+            17.1218321,
+            48.1466501
+          ],
+          [
+            17.1219814,
+            48.1466798
+          ]
+        ]
+      },
+      "id": "way/4418676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4571660",
+        "cycleway": "shared_lane",
+        "highway": "pedestrian",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxweight": "5",
+        "name": "Obchodná",
+        "name:1908-1945": "Schöndorfská",
+        "name:de": "Schöndorfergasse",
+        "name:hu": "Széplak utca",
+        "network": "lcn",
+        "old_name": "platea Hungaricalis;platea Schöndorf;Schöndorffergasse;Schöndorff;Schöndorffergassen;Маgyar utca;Magyar ucza;Széplak utca;Uhorská;Schöndorfská;Molotovova;Šendorf",
+        "oneway": "yes",
+        "source:maxspeed": "SK:urban",
+        "surface": "asphalt",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1132883,
+            48.1489345
+          ],
+          [
+            17.1133661,
+            48.1490204
+          ]
+        ]
+      },
+      "id": "way/4571660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5041819",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Dunajská",
+        "name:de": "Donaugasse",
+        "name:hu": "Duna utca",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1165366,
+            48.1449302
+          ],
+          [
+            17.1164022,
+            48.1449057
+          ],
+          [
+            17.1162981,
+            48.1448727
+          ],
+          [
+            17.1162168,
+            48.1448517
+          ],
+          [
+            17.1159089,
+            48.1447714
+          ],
+          [
+            17.1153834,
+            48.1446862
+          ],
+          [
+            17.1152771,
+            48.1446521
+          ],
+          [
+            17.1150577,
+            48.1446127
+          ],
+          [
+            17.1139638,
+            48.1444326
+          ],
+          [
+            17.113715,
+            48.1443843
+          ]
+        ]
+      },
+      "id": "way/5041819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31126748",
+        "cycleway:right": "shared_lane",
+        "cycleway:right:lane": "pictogram",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "SK:zone30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "smoothness": "good",
+        "source:maxspeed": "survey",
+        "surface": "asphalt",
+        "traffic:class": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1175938,
+            48.1505065
+          ],
+          [
+            17.1173594,
+            48.1499874
+          ],
+          [
+            17.1172311,
+            48.1497033
+          ],
+          [
+            17.1171901,
+            48.1496189
+          ],
+          [
+            17.1171502,
+            48.1495368
+          ]
+        ]
+      },
+      "id": "way/31126748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55346863",
+        "cycleway:right": "shared_lane",
+        "cycleway:right:lane": "pictogram",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "SK:zone30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "smoothness": "excellent",
+        "source:maxspeed": "survey",
+        "surface": "asphalt",
+        "traffic:class": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1172759,
+            48.1495565
+          ],
+          [
+            17.1173049,
+            48.1496192
+          ],
+          [
+            17.1175027,
+            48.1500383
+          ],
+          [
+            17.1175158,
+            48.1500674
+          ],
+          [
+            17.1175304,
+            48.1500977
+          ],
+          [
+            17.1175538,
+            48.1501402
+          ],
+          [
+            17.1176075,
+            48.1502306
+          ],
+          [
+            17.1176531,
+            48.1503062
+          ],
+          [
+            17.11775,
+            48.1504643
+          ],
+          [
+            17.1177977,
+            48.1505445
+          ],
+          [
+            17.1178078,
+            48.1505584
+          ],
+          [
+            17.1178115,
+            48.1505631
+          ],
+          [
+            17.1178165,
+            48.1505691
+          ],
+          [
+            17.1178209,
+            48.1505732
+          ],
+          [
+            17.1178262,
+            48.1505785
+          ],
+          [
+            17.117839,
+            48.1505902
+          ],
+          [
+            17.117858,
+            48.1506056
+          ],
+          [
+            17.1178779,
+            48.1506192
+          ],
+          [
+            17.117898,
+            48.1506309
+          ],
+          [
+            17.1179179,
+            48.1506408
+          ],
+          [
+            17.117934,
+            48.1506484
+          ],
+          [
+            17.1180205,
+            48.1506883
+          ]
+        ]
+      },
+      "id": "way/55346863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55346960",
+        "cycleway:right": "shared_lane",
+        "cycleway:right:lane": "pictogram",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "SK:zone30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "smoothness": "good",
+        "source:maxspeed": "survey",
+        "surface": "asphalt",
+        "traffic:class": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1171502,
+            48.1495368
+          ],
+          [
+            17.117049,
+            48.1493259
+          ],
+          [
+            17.1169539,
+            48.1491337
+          ],
+          [
+            17.1169377,
+            48.1491009
+          ],
+          [
+            17.116872,
+            48.1489752
+          ],
+          [
+            17.1168384,
+            48.1489188
+          ],
+          [
+            17.1167801,
+            48.1488616
+          ],
+          [
+            17.1167534,
+            48.1488398
+          ],
+          [
+            17.1166909,
+            48.1487632
+          ],
+          [
+            17.1163971,
+            48.1483462
+          ],
+          [
+            17.1163439,
+            48.1482706
+          ],
+          [
+            17.1163053,
+            48.1482165
+          ],
+          [
+            17.1162671,
+            48.1481642
+          ],
+          [
+            17.1162241,
+            48.1481161
+          ],
+          [
+            17.1161759,
+            48.1480727
+          ],
+          [
+            17.1156188,
+            48.1475721
+          ],
+          [
+            17.1154994,
+            48.1474661
+          ],
+          [
+            17.1152895,
+            48.1472815
+          ],
+          [
+            17.1152694,
+            48.1472639
+          ],
+          [
+            17.1149941,
+            48.1470184
+          ],
+          [
+            17.1147153,
+            48.1467728
+          ]
+        ]
+      },
+      "id": "way/55346960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137573454",
+        "hgv": "no",
+        "highway": "pedestrian",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxweight": "5",
+        "name": "Obchodná",
+        "name:1908-1945": "Schöndorfská",
+        "name:de": "Schöndorfergasse",
+        "name:hu": "Széplak utca",
+        "old_name": "platea Hungaricalis;platea Schöndorf;Schöndorffergasse;Schöndorff;Schöndorffergassen;Маgyar utca;Magyar ucza;Széplak utca;Uhorská;Schöndorfská;Molotovova;Šendorf",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1132883,
+            48.1489345
+          ],
+          [
+            17.1134305,
+            48.1489883
+          ]
+        ]
+      },
+      "id": "way/137573454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/186535370",
+        "cycleway:right": "shared_lane",
+        "cycleway:right:lane": "pictogram",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "SK:zone30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "smoothness": "good",
+        "source:maxspeed": "survey",
+        "surface": "asphalt",
+        "traffic:class": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1164416,
+            48.1481842
+          ],
+          [
+            17.1165282,
+            48.1483066
+          ],
+          [
+            17.1168321,
+            48.1487357
+          ],
+          [
+            17.1170974,
+            48.1491459
+          ]
+        ]
+      },
+      "id": "way/186535370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/186535372",
+        "cycleway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "smoothness": "good",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "traffic:class": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1130617,
+            48.1447752
+          ],
+          [
+            17.1131032,
+            48.1448371
+          ],
+          [
+            17.1136757,
+            48.1455596
+          ],
+          [
+            17.1137636,
+            48.1456742
+          ]
+        ]
+      },
+      "id": "way/186535372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204453318",
+        "hgv": "no",
+        "highway": "pedestrian",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxweight": "5",
+        "name": "Obchodná",
+        "name:hu": "Széplak utca",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1130094,
+            48.1488339
+          ],
+          [
+            17.1130346,
+            48.1488304
+          ],
+          [
+            17.1130658,
+            48.1488295
+          ]
+        ]
+      },
+      "id": "way/204453318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226427427",
+        "cycleway": "shared_lane",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "SK:zone30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "smoothness": "excellent",
+        "source:maxspeed": "sign",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1178511,
+            48.1507951
+          ],
+          [
+            17.1177214,
+            48.1506707
+          ],
+          [
+            17.1177063,
+            48.1506584
+          ],
+          [
+            17.1176943,
+            48.1506468
+          ],
+          [
+            17.1176829,
+            48.1506347
+          ],
+          [
+            17.1176688,
+            48.150619
+          ],
+          [
+            17.1176579,
+            48.1506056
+          ],
+          [
+            17.1176536,
+            48.1505995
+          ],
+          [
+            17.1176329,
+            48.15057
+          ],
+          [
+            17.1175938,
+            48.1505065
+          ]
+        ]
+      },
+      "id": "way/226427427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/240873212",
+        "hgv": "no",
+        "highway": "pedestrian",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxweight": "5",
+        "name": "Obchodná",
+        "name:1908-1945": "Schöndorfská",
+        "name:de": "Schöndorfergasse",
+        "name:hu": "Széplak utca",
+        "old_name": "platea Hungaricalis;platea Schöndorf;Schöndorffergasse;Schöndorff;Schöndorffergassen;Маgyar utca;Magyar ucza;Széplak utca;Uhorská;Schöndorfská;Molotovova;Šendorf",
+        "oneway": "yes",
+        "source:maxspeed": "SK:urban",
+        "surface": "asphalt",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1134305,
+            48.1489883
+          ],
+          [
+            17.1136585,
+            48.1491001
+          ]
+        ]
+      },
+      "id": "way/240873212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298771989",
+        "bicycle": "yes",
+        "embedded_rails": "tram",
+        "hgv": "no",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle:conditional": "delivery @ (06:00-09:00)",
+        "name": "Obchodná",
+        "name:1908-1945": "Schöndorfská",
+        "network": "lcn",
+        "old_name": "platea Hungaricalis;platea Schöndorf;Schöndorffergasse;Schöndorff;Schöndorffergassen;Маgyar utca;Magyar ucza;Széplak utca;Uhorská;Schöndorfská;Molotovova;Šendorf",
+        "old_name:de": "Schöndorfergasse",
+        "old_name:hu": "Széplak utca",
+        "source": "http://www.pammap.sk/bratislava?miesta=1102",
+        "surface": "paving_stones",
+        "vehicle": "private",
+        "vehicle:conditional": "delivery @ (06:00-09:00)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1073955,
+            48.1459107
+          ],
+          [
+            17.1074989,
+            48.1459482
+          ],
+          [
+            17.1075871,
+            48.1459923
+          ],
+          [
+            17.1077199,
+            48.1460773
+          ],
+          [
+            17.1077865,
+            48.146118
+          ],
+          [
+            17.1080114,
+            48.1462553
+          ],
+          [
+            17.1083686,
+            48.1464656
+          ],
+          [
+            17.1085315,
+            48.1465616
+          ],
+          [
+            17.1086134,
+            48.1466048
+          ],
+          [
+            17.1087333,
+            48.1466687
+          ],
+          [
+            17.1087764,
+            48.1466917
+          ],
+          [
+            17.1090954,
+            48.1468616
+          ],
+          [
+            17.1092971,
+            48.1469632
+          ],
+          [
+            17.1100688,
+            48.1473459
+          ],
+          [
+            17.1105985,
+            48.1476116
+          ],
+          [
+            17.1108269,
+            48.1477257
+          ],
+          [
+            17.1112519,
+            48.1479379
+          ],
+          [
+            17.1119099,
+            48.1482549
+          ],
+          [
+            17.112007,
+            48.1483028
+          ],
+          [
+            17.1126678,
+            48.148624
+          ],
+          [
+            17.1127836,
+            48.1486878
+          ],
+          [
+            17.1128547,
+            48.1487261
+          ],
+          [
+            17.1129493,
+            48.1487787
+          ],
+          [
+            17.112996,
+            48.1488047
+          ],
+          [
+            17.1130346,
+            48.1488304
+          ]
+        ]
+      },
+      "id": "way/298771989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298771990",
+        "bicycle": "yes",
+        "cycleway": "shared_lane",
+        "embedded_rails": "tram",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "maxweight": "5",
+        "motor_vehicle:conditional": "delivery @ (06:00-09:00)",
+        "name": "Obchodná",
+        "name:1908-1945": "Schöndorfská",
+        "name:de": "Schöndorfergasse",
+        "name:hu": "Széplak utca",
+        "network": "lcn",
+        "old_name": "platea Hungaricalis;platea Schöndorf;Schöndorffergasse;Schöndorff;Schöndorffergassen;Маgyar utca;Magyar ucza;Széplak utca;Uhorská;Schöndorfská;Molotovova;Šendorf",
+        "oneway": "yes",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1133492,
+            48.1490789
+          ],
+          [
+            17.1132995,
+            48.1490326
+          ],
+          [
+            17.1132589,
+            48.1489962
+          ],
+          [
+            17.1131552,
+            48.1489135
+          ],
+          [
+            17.1130865,
+            48.1488623
+          ],
+          [
+            17.1130346,
+            48.1488304
+          ]
+        ]
+      },
+      "id": "way/298771990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306282250",
+        "bicycle": "yes",
+        "cycleway": "shared_lane",
+        "hgv": "no",
+        "highway": "pedestrian",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxweight": "5",
+        "name": "Obchodná",
+        "name:1908-1945": "Schöndorfská",
+        "name:de": "Schöndorfergasse",
+        "name:hu": "Széplak utca",
+        "old_name": "platea Hungaricalis;platea Schöndorf;Schöndorffergasse;Schöndorff;Schöndorffergassen;Маgyar utca;Magyar ucza;Széplak utca;Uhorská;Schöndorfská;Molotovova;Šendorf",
+        "oneway": "yes",
+        "surface": "paving_stones",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1130658,
+            48.1488295
+          ],
+          [
+            17.1130953,
+            48.1488317
+          ],
+          [
+            17.1131187,
+            48.1488362
+          ],
+          [
+            17.1131345,
+            48.1488419
+          ],
+          [
+            17.1131529,
+            48.1488505
+          ],
+          [
+            17.1132883,
+            48.1489345
+          ]
+        ]
+      },
+      "id": "way/306282250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/386521581",
+        "cycleway": "lane",
+        "cycleway:lane": "advisory",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "SK:zone30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "smoothness": "good",
+        "source:maxspeed": "survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1148039,
+            48.146701
+          ],
+          [
+            17.1150128,
+            48.1468573
+          ],
+          [
+            17.1150741,
+            48.1469076
+          ],
+          [
+            17.1156369,
+            48.147398
+          ],
+          [
+            17.1157122,
+            48.1474677
+          ],
+          [
+            17.1160125,
+            48.1477659
+          ],
+          [
+            17.1160829,
+            48.1478353
+          ]
+        ]
+      },
+      "id": "way/386521581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407012183",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Dunajská",
+        "name:de": "Donaugasse",
+        "name:hu": "Duna utca",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1179146,
+            48.1453489
+          ],
+          [
+            17.1181409,
+            48.1454262
+          ],
+          [
+            17.1181845,
+            48.145441
+          ],
+          [
+            17.1190844,
+            48.1457453
+          ],
+          [
+            17.1191618,
+            48.1457765
+          ],
+          [
+            17.1193024,
+            48.1458362
+          ],
+          [
+            17.1195488,
+            48.1459274
+          ],
+          [
+            17.1196134,
+            48.1459492
+          ],
+          [
+            17.1196948,
+            48.1459763
+          ]
+        ]
+      },
+      "id": "way/407012183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495282275",
+        "cycleway:right": "shared_lane",
+        "cycleway:right:lane": "pictogram",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "SK:zone30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "smoothness": "excellent",
+        "source:maxspeed": "survey",
+        "surface": "asphalt",
+        "traffic:class": "1",
+        "turn:lanes": "through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1170974,
+            48.1491459
+          ],
+          [
+            17.1172599,
+            48.1495196
+          ],
+          [
+            17.1172759,
+            48.1495565
+          ]
+        ]
+      },
+      "id": "way/495282275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/502682445",
+        "cycleway": "lane",
+        "cycleway:lane": "advisory",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxlength": "10",
+        "maxspeed": "30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "traffic:class": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1147153,
+            48.1467728
+          ],
+          [
+            17.114624,
+            48.146689
+          ],
+          [
+            17.1143685,
+            48.1464548
+          ],
+          [
+            17.113971,
+            48.1460934
+          ],
+          [
+            17.1139303,
+            48.1460564
+          ],
+          [
+            17.11389,
+            48.1460215
+          ],
+          [
+            17.1135702,
+            48.145719
+          ],
+          [
+            17.1134811,
+            48.1456278
+          ],
+          [
+            17.113149,
+            48.1452302
+          ],
+          [
+            17.1129031,
+            48.1449148
+          ],
+          [
+            17.1128439,
+            48.1448434
+          ]
+        ]
+      },
+      "id": "way/502682445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/717142810",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "SK:zone30",
+        "name": "Dunajská",
+        "name:de": "Donaugasse",
+        "name:hu": "Duna utca",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1197599,
+            48.1460044
+          ],
+          [
+            17.1200007,
+            48.1460766
+          ],
+          [
+            17.1201082,
+            48.1461106
+          ],
+          [
+            17.1204865,
+            48.1462301
+          ],
+          [
+            17.1205196,
+            48.1462406
+          ],
+          [
+            17.1212162,
+            48.1464737
+          ],
+          [
+            17.121507,
+            48.1465567
+          ]
+        ]
+      },
+      "id": "way/717142810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/906580019",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Dunajská",
+        "name:de": "Donaugasse",
+        "name:hu": "Duna utca",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1175444,
+            48.1452345
+          ],
+          [
+            17.1179146,
+            48.1453489
+          ]
+        ]
+      },
+      "id": "way/906580019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/906580021",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Dunajská",
+        "name:de": "Donaugasse",
+        "name:hu": "Duna utca",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "slight_left|through;slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1173528,
+            48.1451545
+          ],
+          [
+            17.1174242,
+            48.1451767
+          ],
+          [
+            17.1175444,
+            48.1452345
+          ]
+        ]
+      },
+      "id": "way/906580021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/906580022",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Dunajská",
+        "name:de": "Donaugasse",
+        "name:hu": "Duna utca",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1165366,
+            48.1449302
+          ],
+          [
+            17.1166128,
+            48.1449252
+          ],
+          [
+            17.1171116,
+            48.1450773
+          ],
+          [
+            17.1173528,
+            48.1451545
+          ]
+        ]
+      },
+      "id": "way/906580022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1050516623",
+        "embedded_rails": "tram",
+        "highway": "unclassified",
+        "lane_markings": "no",
+        "name": "Obchodná",
+        "name:1908-1945": "Schöndorfská",
+        "name:de": "Schöndorfergasse",
+        "name:hu": "Széplak utca",
+        "network": "lcn",
+        "old_name": "platea Hungaricalis;platea Schöndorf;Schöndorffergasse;Schöndorff;Schöndorffergassen;Маgyar utca;Magyar ucza;Széplak utca;Uhorská;Schöndorfská;Molotovova;Šendorf",
+        "smoothness": "excellent",
+        "source": "http://www.pammap.sk/bratislava?miesta=1102",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1071999,
+            48.1458761
+          ],
+          [
+            17.1072364,
+            48.1458798
+          ],
+          [
+            17.1073547,
+            48.1458975
+          ],
+          [
+            17.1073955,
+            48.1459107
+          ]
+        ]
+      },
+      "id": "way/1050516623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1381679912",
+        "cycleway": "shared_lane",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "SK:zone30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "smoothness": "good",
+        "source:maxspeed": "survey",
+        "surface": "asphalt",
+        "traffic:class": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1160829,
+            48.1478353
+          ],
+          [
+            17.1163612,
+            48.1481015
+          ],
+          [
+            17.1164416,
+            48.1481842
+          ]
+        ]
+      },
+      "id": "way/1381679912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1410016260",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Dunajská",
+        "name:de": "Donaugasse",
+        "name:hu": "Duna utca",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1196948,
+            48.1459763
+          ],
+          [
+            17.1197599,
+            48.1460044
+          ]
+        ]
+      },
+      "id": "way/1410016260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1410741283",
+        "cycleway": "lane",
+        "cycleway:lane": "advisory",
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxlength": "10",
+        "maxspeed": "30",
+        "name": "Špitálska",
+        "name:de": "Spitalgasse",
+        "name:hu": "Kórház utca",
+        "oneway": "yes",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "traffic:class": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.1128439,
+            48.1448434
+          ],
+          [
+            17.1127986,
+            48.1447865
+          ]
+        ]
+      },
+      "id": "way/1410741283"
+    }
+  ]
+}

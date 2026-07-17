@@ -1,0 +1,21 @@
+{
+  "name": "bratislava-streets",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "split-streets": "node scripts/split-streets.mjs"
+  },
+  "devDependencies": {
+    "@types/google.maps": "^3.65.2",
+    "typescript": "^6.0.3",
+    "vite": "^8.1.1"
+  },
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^2.1.1",
+    "@turf/turf": "^7.3.5"
+  }
+}
